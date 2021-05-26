@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adnanhebibovic
 - 👀 I’m interested in software development, obviously. :)
-- 🌱 I’m currently learning Node.js, React.js and Docker.
+- 🌱 I’m currently learning Node.js, React.js and ...
 - 💞️ I’m looking to collaborate on Javascript projects.
 - 📫 How to reach me: adnan.hebibovic@gmail.com
